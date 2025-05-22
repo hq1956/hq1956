@@ -3,4 +3,4 @@
 ## Building clean, efficient web interfaces with modern technologies. Focused on practical solutions and maintainable code.
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-5795CC?style-for-the-badge&logo=flutter&logoColor=5795CC)
+![JavaScript](https://img.shields.io/badge/-Flutter-042441?style-for-the-badge&logo=JavaScript&logoColor=DFE5EB)
