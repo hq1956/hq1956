@@ -4,10 +4,10 @@
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-33434F?style-for-the-badge&logo=JavaScript)
-![CSS](https://img.shields.io/badge/CSS-8A2BE2?style-for-the-badge&logo=CSS&logoColor=DFE5EB)
-![HTML](https://img.shields.io/badge/HTML-8A2BE2?style-for-the-badge&logo=HTML&logoColor=DFE5EB)
-![React](https://img.shields.io/badge/React-8A2BE2?style-for-the-badge&logo=React&logoColor=DFE5EB)
-![Python](https://img.shields.io/badge/Python-8A2BE2?style-for-the-badge&logo=Python&logoColor=DFE5EB)
-![Git](https://img.shields.io/badge/Git-8A2BE2?style-for-the-badge&logo=Git&logoColor=DFE5EB)
-![Figma](https://img.shields.io/badge/Figma-8A2BE2?style-for-the-badge&logo=Figma&logoColor=DFE5EB)
-![PhotoShop](https://img.shields.io/badge/PhotoShop-8A2BE2?style-for-the-badge&logo=PhotoShop&logoColor=DFE5EB)
+![CSS](https://img.shields.io/badge/CSS-33434F?style-for-the-badge&logo=CSS)
+![HTML](https://img.shields.io/badge/HTML-33434F?style-for-the-badge&logo=html)
+![React](https://img.shields.io/badge/React-33434F?style-for-the-badge&logo=React)
+![Python](https://img.shields.io/badge/Python-33434F?style-for-the-badge&logo=Python)
+![Git](https://img.shields.io/badge/Git-33434F?style-for-the-badge&logo=Git)
+![Figma](https://img.shields.io/badge/Figma-33434F?style-for-the-badge&logo=Figma)
+![PhotoShop](https://img.shields.io/badge/PhotoShop-33434F?style-for-the-badge&logo=Ps)
