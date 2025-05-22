@@ -3,7 +3,7 @@
 ## Building clean, efficient web interfaces with modern technologies. Focused on practical solutions and maintainable code.
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style-for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/JavaScript-33434F?style-for-the-badge&logo=JavaScript)
 ![CSS](https://img.shields.io/badge/CSS-8A2BE2?style-for-the-badge&logo=CSS&logoColor=DFE5EB)
 ![HTML](https://img.shields.io/badge/HTML-8A2BE2?style-for-the-badge&logo=HTML&logoColor=DFE5EB)
 ![React](https://img.shields.io/badge/React-8A2BE2?style-for-the-badge&logo=React&logoColor=DFE5EB)
