@@ -3,5 +3,11 @@
 ## Building clean, efficient web interfaces with modern technologies. Focused on practical solutions and maintainable code.
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-Flutter-042441?style-for-the-badge&logo=JavaScript&logoColor=DFE5EB)
-![CSS](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style-for-the-badge&logo=JavaScript&logoColor=DFE5EB)
+![CSS](https://img.shields.io/badge/CSS-8A2BE2?style-for-the-badge&logo=CSS&logoColor=DFE5EB)
+![HTML](https://img.shields.io/badge/HTML-8A2BE2?style-for-the-badge&logo=HTML&logoColor=DFE5EB)
+![React](https://img.shields.io/badge/React-8A2BE2?style-for-the-badge&logo=React&logoColor=DFE5EB)
+![Python](https://img.shields.io/badge/Python-8A2BE2?style-for-the-badge&logo=Python&logoColor=DFE5EB)
+![Git](https://img.shields.io/badge/Git-8A2BE2?style-for-the-badge&logo=Git&logoColor=DFE5EB)
+![Figma](https://img.shields.io/badge/Figma-8A2BE2?style-for-the-badge&logo=Figma&logoColor=DFE5EB)
+![PhotoShop](https://img.shields.io/badge/PhotoShop-8A2BE2?style-for-the-badge&logo=PhotoShop&logoColor=DFE5EB)
