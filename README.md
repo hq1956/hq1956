@@ -4,3 +4,4 @@
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-Flutter-042441?style-for-the-badge&logo=JavaScript&logoColor=DFE5EB)
+![CSS](https://img.shields.io/badge/just%20the%20message-8A2BE2)
