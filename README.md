@@ -10,7 +10,6 @@
 ![Python](https://img.shields.io/badge/Python-33434F?style-for-the-badge&logo=Python)
 ![Git](https://img.shields.io/badge/Git-33434F?style-for-the-badge&logo=Git)
 ![Figma](https://img.shields.io/badge/Figma-33434F?style-for-the-badge&logo=Figma)
-![PhotoShop](https://img.shields.io/badge/PhotoShop-33434F?style-for-the-badge&logo=Ps)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-33434F?style-for-the-badge&logo=telegram)](https://t.me/TPEHBOLOH88)
