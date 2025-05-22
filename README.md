@@ -14,3 +14,5 @@
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-33434F?style-for-the-badge&logo=telegram)](https://t.me/TPEHBOLOH88)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hq1956&show_icons=true)](https://github.com/hq1956/github-readme-stats)
