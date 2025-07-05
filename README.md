@@ -1,4 +1,4 @@
-## Hi I'm Vladislav Grigorev.        My Portfolio: [[clck.ru/3Mx4Wi](https://gclnk.com/UBaQbzGY)](https://gclnk.com/UBaQbzGY)
+## Hi I'm Vladislav Grigorev.        My Portfolio: (https://gclnk.com/UBaQbzGY)
 ![Header](https://github.com/hq1956/hq1956/blob/main/assets/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
 
 ## Building clean, efficient web interfaces with modern technologies. Focused on practical solutions and maintainable code.
